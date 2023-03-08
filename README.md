@@ -5,7 +5,7 @@ on the screen, with the objective of killing as many as possible before the time
 
 ## How to use
 
-Access the production environment by clicking in the link aside: [https://ssn0wy.github.io/game-mata-mosquito/](https://ssn0wy.github.io/game-mata-mosquito/)
+Access the production environment by clicking in the link aside: [https://ssn0wy.github.io/kill-mosquito/](https://ssn0wy.github.io/kill-mosquito/)
 
 ## Technologies Used
 
