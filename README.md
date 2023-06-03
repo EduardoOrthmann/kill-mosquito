@@ -5,7 +5,7 @@ on the screen, with the objective of killing as many as possible before the time
 
 ## How to use
 
-Access the production environment by clicking in the link aside: [https://ssn0wy.github.io/kill-mosquito/](https://ssn0wy.github.io/kill-mosquito/)
+Access the production environment by clicking in the link aside: [https://eduardoorthmann.github.io/kill-mosquito/](https://eduardoorthmann.github.io/kill-mosquito/)
 
 ## Technologies Used
 
